@@ -1,5 +1,6 @@
 # 更新
   fork大佬的代码，并加入shiro>1.2.42（AES GCM）检测。
+  大佬原项目: https://github.com/Daybr4ak/ShiroScan
 
 # ShiroScan
 burp插件 Shiroscan 主要用于框架、无dnslog key检测
