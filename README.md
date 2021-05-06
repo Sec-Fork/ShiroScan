@@ -1,5 +1,5 @@
 # ShiroScan
-burp插件 Shiroscan 主要用于框架、无dnslog key检测
+burp插件 Shiroscan 主要用于框架、无dnslog key检测1
 
 无dnslog检测基于https://mp.weixin.qq.com/s/do88_4Td1CSeKLmFqhGCuQ
 
